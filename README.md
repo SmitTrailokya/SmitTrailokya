@@ -1,5 +1,9 @@
 <p align="center">
-  <img alt="GIF" <src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+    <img
+      width="355"
+      align="right"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+    />
 </p>
 
 ## Who Am I?

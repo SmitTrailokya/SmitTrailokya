@@ -6,6 +6,8 @@
     />
 </p>
 
+## About me
+
 Hey, I'm Smit Trailokya – a recent Master of Computer Science graduate from the University of Illinois Urbana-Champaign! I'm a passionate Software Engineer with a knack for full-stack development, machine learning, and cloud technologies. My technical expertise spans across a wide array of programming languages, libraries, frameworks, and tools, including Python, Go, JavaScript, ReactJS, NodeJS, Docker, Kubernetes, and AWS.
 
 Throughout my career, I've worked on innovative projects like the MAINTTRACK system at UIUC, enhancing maintenance efficiency for campus labs, and developed infrastructure-as-code solutions at NBCUniversal to bolster global streaming platform (Sky & Peacock TV) stability. I've also contributed to advanced machine learning projects, including a job recommendation system and a cataract detection model, showcasing my ability to merge data-driven insights with practical applications.

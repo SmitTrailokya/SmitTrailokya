@@ -1,7 +1,7 @@
 <p align="center">
     <img
       width="355"
-      align="right"
+      align="center"
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
 </p>

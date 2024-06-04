@@ -5,8 +5,8 @@
       src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
     />
 </p>
-
-## About me
+ 
+## About me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Hey, I'm Smit Trailokya – a recent Master of Computer Science graduate from the University of Illinois Urbana-Champaign! I'm a passionate Software Engineer with a knack for full-stack development, machine learning, and cloud technologies. My technical expertise spans across a wide array of programming languages, libraries, frameworks, and tools, including Python, Go, JavaScript, ReactJS, NodeJS, Docker, Kubernetes, and AWS.
 

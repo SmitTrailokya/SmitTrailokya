@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZqYjYxbjI0YXViOWd2dHllaWU1cGxtOGpkaGwwdzk1bm4wOW40aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1XCcD9VLQZ2Io/giphy.gif" />
+  <img alt="GIF" <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </p>
 
 ## Who Am I?

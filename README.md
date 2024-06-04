@@ -14,11 +14,6 @@ Throughout my career, I've worked on innovative projects like the MAINTTRACK sys
 
 Whether it's tackling complex data puzzles, driving strategic insights, or managing end-to-end development projects to perfection, I thrive at the intersection of data, technology, and strategy. Let's connect and explore the world of software engineering together!
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SmitTrailokya/count.svg" />
-</p>
-
 ## What I'm Up To
 🌱 Currently cultivating my skills in AWS and Azure.
 

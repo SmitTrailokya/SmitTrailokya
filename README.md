@@ -38,4 +38,4 @@ Methodologies: CI/CD pipelines, REST APIs, Agile methodologies, Scrum, Prometheu
 
 💼 LinkedIn: [Smit Trailokya](https://www.linkedin.com/in/smit-trailokya/)
 
-💻 Website: [Smit Trailokya's Porfolio](smit-trailokya-github-io.vercel.app/)
+💻 Website: [Smit Trailokya's Porfolio](https://smit-trailokya-github-io.vercel.app/)

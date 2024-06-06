@@ -37,3 +37,5 @@ Methodologies: CI/CD pipelines, REST APIs, Agile methodologies, Scrum, Prometheu
 📧 Email: srt6@illinois.edu
 
 💼 LinkedIn: [Smit Trailokya](https://www.linkedin.com/in/smit-trailokya/)
+
+💻 Website: [Smit Trailokya's Porfolio](smit-trailokya-github-io.vercel.app/)
